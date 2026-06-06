@@ -1,4 +1,8 @@
 # Don't Litter by Never Back Down Studios
+<i>Disclaimer: This repository functions strictly as a code-and-architecture showcase of the C# scripts that I personally contributed to this project. To comply with the Unity Asset Store EULA, all third-party art, audio and commercial tools have been excluded. The scripts worked on exclusively by other members of the team have also been excluded. The project will not compile in the Unity Editor, but playable builds are available below</i>
+
+## About
+
 Don't Litter is a 3D platformer and adventure game where the player explores 5 theme-based levels each with unique obstacles, enemies, and puzzles. The player controls a warrior type character who can walk/run, jump and attack enemies. Powerups and attack upgrades will be acquired as the player progresses on in the game. The player also has health, and enemy attacks and environmental hazards can hurt the player.
 
 <div align="center">
