@@ -1,13 +1,24 @@
 # Don't Litter by Never Back Down Studios
-<i>Disclaimer: This repository functions strictly as a code-and-architecture showcase of the C# scripts that I personally contributed to this project. To comply with the Unity Asset Store EULA, all third-party art, audio and commercial tools have been excluded. The scripts worked on exclusively by other members of the team have also been excluded. The project will not compile in the Unity Editor, but playable builds are available below</i>
+<i>Disclaimer: This repository functions strictly as a code-and-architecture showcase of the C# scripts that I personally contributed to this project. To comply with the Unity Asset Store EULA, all third-party art, audio and commercial tools have been excluded. The scripts worked on exclusively by other members of the team have also been excluded. This project will not compile in the Unity Editor, but playable builds are available below.</i>
 
 ## About
 
 Don't Litter is a 3D platformer and adventure game where the player explores 5 theme-based levels each with unique obstacles, enemies, and puzzles. The player controls a warrior type character who can walk/run, jump and attack enemies. Powerups and attack upgrades will be acquired as the player progresses on in the game. The player also has health, and enemy attacks and environmental hazards can hurt the player.
 
+<p align="center">To play the full game:</p>
+
 <div align="center">
     <a href="https://justinxie.itch.io/dont-litter-by-never-back-down-studios">
         <img src="https://img.shields.io/badge/Download_on_itch.io-44cc11" width="250">
+    </a>
+</div>
+------
+
+<p align="center">To play my levels (Lava Level and Ending Credits) only:</p>
+
+<div align="center">
+    <a href="https://justinxie.itch.io/dont-litter-by-never-back-down-studios">
+        <img src="https://img.shields.io/badge/Play_on_Unity_Play-24A0ED" width="250">
     </a>
 </div>
 
