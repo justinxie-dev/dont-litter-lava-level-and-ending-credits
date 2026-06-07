@@ -9,17 +9,10 @@ Don't Litter is a 3D platformer and adventure game where the player explores 5 t
 
 <div align="center">
     <a href="https://justinxie.itch.io/dont-litter-by-never-back-down-studios">
-        <img src="https://img.shields.io/badge/Download_on_itch.io-44cc11" width="255">
+        <img src="https://img.shields.io/badge/Download_on_itch.io-44cc11" width="250">
     </a>
 </div>
 
-<p align="center">To play my levels (Lava Level and Ending Credits) only:</p>
-
-<div align="center">
-    <a href="https://justinxie.itch.io/dont-litter-by-never-back-down-studios">
-        <img src="https://img.shields.io/badge/Play_on_Unity_Play-24A0ED" width="250">
-    </a>
-</div>
 
 ## Story
 
