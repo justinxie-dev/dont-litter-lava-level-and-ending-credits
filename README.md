@@ -1,5 +1,5 @@
 # Don't Litter by Never Back Down Studios
-<i>Disclaimer: This repository functions strictly as a code-and-architecture showcase of the C# scripts that I personally contributed to this project. To comply with the Unity Asset Store EULA, all third-party art, audio and commercial tools have been excluded. The scripts worked on exclusively by other members of the team have also been excluded. This project will not compile in the Unity Editor, but playable builds are available below.</i>
+<i>Disclaimer: This repository functions strictly as a code-and-architecture showcase of the C# scripts that I personally contributed to this project. To comply with the Unity Asset Store EULA, all third-party art, audio and commercial tools have been excluded. The scripts worked on exclusively by other members of the team have also been excluded. This project will not compile in the Unity Editor, but a playable build is available below.</i>
 
 ## About
 
@@ -14,6 +14,8 @@ Don't Litter is a 3D platformer and adventure game where the player explores 5 t
 </div>
 
 <br>
+
+<p align="center">To go directly to my levels (Lava Level and Ending Credits), fast travel via the In-Game Menu:</p>
 
 <p align="center">
     <img width="800" height="450" alt="JX-DontLitter-LavaLevel-and-EndingCredits" src="https://github.com/user-attachments/assets/9233dc4f-5a1d-4d44-bfc3-9389f04b2844" />
