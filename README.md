@@ -13,6 +13,11 @@ Don't Litter is a 3D platformer and adventure game where the player explores 5 t
     </a>
 </div>
 
+<br>
+
+<p align="center">
+    <img width="800" height="450" alt="JX-DontLitter-LavaLevel-and-EndingCredits" src="https://github.com/user-attachments/assets/9233dc4f-5a1d-4d44-bfc3-9389f04b2844" />
+</p>
 
 ## Story
 
